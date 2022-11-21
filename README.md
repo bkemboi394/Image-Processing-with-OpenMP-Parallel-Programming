@@ -12,7 +12,7 @@ The main focus of the project was to investigate how parallel programming with O
 
 I compiled and executed the program via a virtual c++ lab environment provided by my school for HPC students. 
 
-Tested out the code on a picture taken somewhere in our school named 'GVSU.pgm'
+Tested out the code on a picture taken somewhere in my school named 'GVSU.pgm'
 
 Since I couldn't upload my image results successfully, I screenshoted them and pasted them on a word document, converted the word document to a pdf file and pushed it as an output file above. 
 
