@@ -16,5 +16,5 @@ Tested out the code on a picture taken somewhere in my school named 'GVSU.pgm'
 
 Since I couldn't upload my image results successfully, I screenshoted them and pasted them on a word document, converted the word document to a pdf file and pushed it as an output file above. 
 
-The algorithm uses C++ vectors and vectors of vectors to represent 1D and 2D dimension arrays used fo image pixels.
+The algorithm uses C++ vectors and vectors of vectors to represent 1D and 2D dimension arrays used for storage and manipulation of image pixels.
 
