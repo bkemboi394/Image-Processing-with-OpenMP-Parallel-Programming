@@ -10,7 +10,7 @@ The code for reading and writing out the image pixels was provided.
 
 The main focus of the project was to investigate how parallel programming with OpenMp optimizes such tasks, especially where large images are involved. That explains the timing part and the ' #pragma omp parallel for' syntax.
 
-I compiled and executed the program via a virtual c++ lab environment provided by my school for HPC students. 
+I compiled and executed the program via a virtual GPU powered computer (virtual computer lab environment) provided by my school for HPC students. 
 
 Tested out the code on a picture taken somewhere in my school named 'GVSU.pgm'
 
